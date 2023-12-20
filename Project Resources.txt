@@ -1,0 +1,15 @@
+Project resources are components that are necessary for successful
+ project implementation. They include people, equipment, money, time, knowledge – basically,
+ anything that you may require from the project planning to the project delivery phases. 
+A lack of resources is therefore a constraint on the completion of the project, that’s 
+why resource management is the key project management activity that defines a great part of the project success.
+
+
+
+Resource management is the process of planning, scheduling, and allocating resources necessary for successful project delivery. Resource planning is an essential part of any project management methodology that usually takes place at the early project stages.
+
+For example, in Waterfall projects, resource planning is a part of the first Requirements
+ phase where all resources are allocated and scheduled very accurately because this method
+ology doesn’t allow for changing project requirements. In contrast, in Agile projects, resourc
+e management takes place every development cycle: after one cycle has been finished, a new cycle 
+starts with a new resource planning phase.
